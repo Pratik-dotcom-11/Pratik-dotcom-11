@@ -1,6 +1,6 @@
 # Hi, I'm Pratik Ghosh 👋
 
-### B.Tech CSE (AI & ML) Student | Aspiring Software Developer | Tech Enthusiast
+### B.Tech CSE ( CORE ) Student | Aspiring Software Developer | Tech Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Exploring+Software+Development;Building+Projects+with+AI;Learning+Full-Stack+Development;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
 
