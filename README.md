@@ -79,10 +79,6 @@
 | **Diwali Greeting Website** | An interactive festive experience featuring personalized greeting cards, interactive diyas, a digital rangoli studio, festive music, fireworks, and confetti. | Deployed |
 | **CafeOS** | A digital cafe management experience designed to simplify cafe operations and provide customers with a QR-based menu experience. | Built |
 
-### 🌟 Live Project
-
-**Diwali Greeting Website:**  
-https://diwali-greeting-website-4gc4.vercel.app
 
 ---
 
