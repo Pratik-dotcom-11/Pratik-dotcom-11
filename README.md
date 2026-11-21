@@ -1,7 +1,7 @@
 # About-Pratik-Ghosh-
 # Hi, I'm Pratik Ghosh 👋
 
-### B.Tech CSE (AI & ML) Student | Aspiring Software Developer | Tech Enthusiast
+### B.Tech CSE ( CORE ) Student | Aspiring Software Developer | Tech Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Exploring+Software+Development;Building+Projects+with+AI;Learning+Full-Stack+Development;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
 
@@ -75,11 +75,6 @@
 | **Mivo** | An AI-powered voice notes application that converts spoken thoughts into text and helps organize ideas, business notes, and to-do lists. | In Development |
 | **Diwali Greeting Website** | An interactive festive experience featuring personalized greeting cards, interactive diyas, a digital rangoli studio, festive music, fireworks, and confetti. | Deployed |
 | **CafeOS** | A digital cafe management experience designed to simplify cafe operations and provide customers with a QR-based menu experience. | Built |
-
-### 🌟 Live Project
-
-**Diwali Greeting Website:**  
-https://diwali-greeting-website-4gc4.vercel.app
 
 ---
 
