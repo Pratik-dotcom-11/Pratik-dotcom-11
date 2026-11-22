@@ -141,3 +141,5 @@
   <br>
   ⭐ Keep Exploring | Keep Building | Keep Innovating ⭐
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=120&section=footer" /></div>
