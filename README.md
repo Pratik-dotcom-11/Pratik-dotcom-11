@@ -1,6 +1,6 @@
-# Hi, I'm Pratik Ghosh 👋
-
-### B.Tech CSE ( CORE ) Student | Aspiring Software Developer | Tech Enthusiast
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:5b21b6&height=180&section=header&text=PRATIK%20GHOSH&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=75&fontAlignY=45" width="100%" />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Exploring+Software+Development;Building+Projects+with+AI;Learning+Full-Stack+Development;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
 
@@ -122,10 +122,22 @@
 
 ### 💡 Developer Quote
 
-> "The best way to learn is to build something, break it, and make it better."
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i>
+  <br>
+  Think. Code. Debug. Learn. Repeat.
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Let's connect and build something meaningful.
+  <img src="https://komarev.com/ghpvc/?username=Pratik-dotcom-11&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my developer space!</b>
+  <br>
+  ⭐ Keep Exploring | Keep Building | Keep Innovating ⭐
 </p>
