@@ -79,7 +79,7 @@
 | Project | Description | Status |
 |---|---|---|
 | **Mivo** | An AI-powered voice notes application that converts spoken thoughts into text and helps organize ideas, business notes, and to-do lists. | In Development |
-| **Diwali Greeting Website** | An interactive festive experience featuring personalized greeting cards, interactive diyas, a digital rangoli studio, festive music, fireworks, and confetti. | Deployed |
+| **Digital Diya** | An interactive festive experience featuring personalized greeting cards, interactive diyas, a digital rangoli studio, festive music, fireworks, and confetti. | Built |
 | **CafeOS** | A digital cafe management experience designed to simplify cafe operations and provide customers with a QR-based menu experience. | Built |
 
 
