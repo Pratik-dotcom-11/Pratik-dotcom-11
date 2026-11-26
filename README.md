@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 First-year B.Tech student specializing in **Computer Science & Engineering (CORE)**.
+- 🎓 First-year B.Tech student specializing in **Computer Science & Engineering ( CORE )**.
 - 💻 Interested in software development, artificial intelligence, and modern web technologies.
 - 🌱 Currently learning and improving my programming and development skills.
 - 🚀 Building practical projects and exploring AI-powered development workflows.
