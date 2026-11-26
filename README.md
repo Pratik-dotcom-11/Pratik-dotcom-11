@@ -117,7 +117,7 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting my developer space!</b>
+  <b>Thanks for visiting my developer space !</b>
   <br>
   ⭐ Keep Exploring | Keep Building | Keep Innovating ⭐
 </p>
